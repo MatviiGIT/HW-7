@@ -5,13 +5,3 @@ a[href^="https"] {
   ul + p {
     font-size: 24px;
   }
-
-  :root {
-    --primary-color: #007bff;
-    --secondary-color: #6c757d;
-    --success: #28a745;
-  }
-  
-  body {
-    color: var(--primary-color);
-  }
